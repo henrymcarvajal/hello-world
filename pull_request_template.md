@@ -1,6 +1,10 @@
 # Template test
 
 ## Type
-- [ ] Feature
+- [x] Feature
 - [ ] Bug
-- [x] Improvement
+- [ ] Improvement
+
+## Tests
+- [x] Unitary
+- [ ] Integration
