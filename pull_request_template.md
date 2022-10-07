@@ -11,4 +11,4 @@
 
 ## Remarks
 :red_circle:
-:blue_circle:
+🔵
